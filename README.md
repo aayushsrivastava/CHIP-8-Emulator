@@ -25,7 +25,7 @@ $ ./chip8-emulator [path to rom file]
 ```
 
 ## Controls
-The CHIP-8 consists of a hex keyboard (read the [References](https://github.com/aayushsrivastava/CHIP-8-Emulator/new/master?readme=1#references) for more info). They have been mapped to the following keys: 
+The CHIP-8 consists of a hex keyboard (read the [References](https://github.com/aayushsrivastava/CHIP-8-Emulator#references) for more info). They have been mapped to the following keys: 
 ```
 1 2 3 4
 Q W E R
